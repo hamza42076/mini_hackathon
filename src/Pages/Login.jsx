@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import {auth,signInWithEmailAndPassword} from "../FireBaseConfig.js"
+import {auth,signInWithEmailAndPassword} from "../firebaseConfig.js"
 import { useNavigate } from "react-router";
 
 
